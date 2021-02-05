@@ -1,0 +1,24 @@
+Instruction
+----Adding elements is simple and modular----
+----between these is every box on a page----
+	      ||
+	     \||/
+	      \/
+	<main> & </main>
+
+----to add new content, simply put: <div class="row"><div class="item">	CONTENT </div></div>----
+
+	Diagram:
+	|-----------------------------------------------------------------------|
+	|<div class="row">					    </div>	|
+	|			 /\			      /\		|
+	|			/||\			     /||\		|
+	|			 ||			      ||		|
+	|		    <div class="item">		    </div>		|
+	|					    /\				|
+	|					   /||\				|
+	|					    ||				|
+	|					<p>TEXT</p>			|
+	|					    or				|
+	|					<img src="IMAGE NAME">		|
+	|-----------------------------------------------------------------------|
